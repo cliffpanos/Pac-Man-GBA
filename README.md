@@ -2,6 +2,10 @@
 This implementation of Pᗣᗧ•••MᗣN is written in C and designed to be emulated on the Nintendo Game Boy Advance (GBA) video game console.
 The code follows the design pattern of Apple Frameworks.
 
+<p align="center">
+    <img src="Demo.png" width=500em>
+</p>
+
 ## About
 + Because this implementation of Pac-Man was created for a Computer Science class at GT, I am unable to post the C code associated with the game.
 + However, the game can be played on a Game Boy Advance emulator on Linux or Ubuntu using the files in this repository. See the "How To Make & Play" section below.
